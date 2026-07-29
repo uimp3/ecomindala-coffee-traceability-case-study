@@ -33,6 +33,21 @@ The result was an internal platform capable of managing inventory, suppliers, fa
 
 # Business Context
 
+Ecomindala managed most of its daily operations manually.
+
+Inventory movements, supplier information, product registration, and operational procedures depended on messages, handwritten records, and verbal communication.
+
+This created several challenges:
+
+- Lack of standardized processes
+- Manual inventory tracking
+- No centralized information
+- Limited product traceability
+- Increased risk of human errors during daily operations
+- Limited reporting capabilities
+- No role-based access control
+
+The objective of this project was not simply to build software, but to digitize and standardize the company's operational workflow.
 
 ---
 
