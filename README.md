@@ -53,7 +53,19 @@ The objective of this project was not simply to build software, but to digitize 
 
 # My Role
 
+I worked as a Systems Engineering intern within the Research, Development, and Innovation area.
 
+My responsibilities included:
+
+- Business analysis
+- Requirements engineering
+- Process documentation
+- Technology evaluation
+- System modeling
+- Database design
+- Backend development
+- User testing
+- Deployment support
 
 ---
 
