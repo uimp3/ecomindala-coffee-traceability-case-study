@@ -533,41 +533,6 @@ As part of the project, a set of inventory management KPIs was designed and form
 
 ---
 
-# Screenshots
-
-Users
-
-*(Image)*
-
-Suppliers
-
-*(Image)*
-
-Login by role
-
-*(Image)*
-
-Lots, with sensory analysis
-
-*(Image)*
-
-Automatically generated products
-
-*(Image)*
-
-Orders
-
-*(Image)*
-
-Inventory movements
-
-*(Image)*
-
-Reports
-
-*(Image)*
-
----
 
 # Technologies
 
