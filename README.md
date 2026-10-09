@@ -369,7 +369,7 @@ Stock lives at the **lot level**, as the remaining weight of each lot:
 
 ## Lot characteristics and flavor profile
 
-Each lot stores its sensory analysis as structured information: primary, secondary, and tertiary tasting notes, cup score, and observations. Together with the altitude and location of the farm of origin, this lets customers see what makes each lot unique from the online store, and lets staff consult it from the management platform.
+Each lot stores its sensory analysis as structured information: primary, secondary, and tertiary tasting notes, cup score, and observations. Together with its processing method (washed, natural, or honey) and the altitude and location of the farm of origin, this lets customers see what makes each lot unique from the online store, and lets staff consult it from the management platform.
 
 ---
 
@@ -399,7 +399,7 @@ Each lot stores its sensory analysis as structured information: primary, seconda
 
 - Lot registration with an automatic, unique sequential code
 - Origin tracking back to the farm and supplier
-- Informational fields per lot: reception date, packaging, variety, process, gross weight, and structured sensory analysis
+- Informational fields per lot: reception date, packaging, variety, processing method (washed, natural, or honey), gross weight, and structured sensory analysis
 
 ## Product Generation
 
