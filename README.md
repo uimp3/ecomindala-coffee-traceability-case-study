@@ -18,6 +18,45 @@ The result was an internal platform capable of managing suppliers, farms, coffee
 
 ---
 
+# Screenshots
+
+## Login and dashboard
+
+Login
+![Login de administrador](assets/login_admin.png)
+
+![Dashboard administrativo](assets/admin_logged_in.png)
+
+## Core business modules
+
+Users
+![Usuarios](assets/usuarios.png)
+
+Inventory
+![Productos](assets/productos.png)
+
+Coffe Lots
+![Lotes](assets/lote1.png)
+![Lotes y trazabilidad](assets/lote2.png)
+![Lotes y generar productos](assets/lote3.png)
+
+Movimientos y trazabilidad
+![Inventario y movimientos](assets/movimientos.png)
+
+Orders
+![Pedidos](assets/pedidos.png)
+
+Suppliers
+![Proveedores](assets/proveedores.png)
+
+Reports
+![Proveedores](assets/reportes1.png)
+![Proveedores](assets/reportes2.png)
+![Proveedores](assets/reportes3.png)
+![Proveedores](assets/reportes4.png)
+
+---
+
 # Key Contributions
 
 - Analyzed and documented business processes previously handled through verbal communication and paper records.
@@ -496,19 +535,31 @@ As part of the project, a set of inventory management KPIs was designed and form
 
 # Screenshots
 
-Login
+Users
 
 *(Image)*
 
-Inventory
+Suppliers
 
 *(Image)*
 
-Coffee Lots
+Login by role
 
 *(Image)*
 
-Products
+Lots, with sensory analysis
+
+*(Image)*
+
+Automatically generated products
+
+*(Image)*
+
+Orders
+
+*(Image)*
+
+Inventory movements
 
 *(Image)*
 
