@@ -25,6 +25,7 @@ The result was an internal platform capable of managing suppliers, farms, coffee
 Login
 ![Login de administrador](assets/login_admin.png)
 
+Dashboard
 ![Dashboard administrativo](assets/admin_logged_in.png)
 
 ## Core business modules
